@@ -1,0 +1,8 @@
+{
+    "maxDepth": 5,
+    "terminate": true,
+    "forcePlace": true,
+    "structureKey": "minecraft:ancient_city",
+    "pieces": ["ancient-city/ancient_city"]
+
+}

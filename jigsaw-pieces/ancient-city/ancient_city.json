@@ -1,0 +1,18 @@
+{
+    "object": "jigsaw/ancient-city/ancient_city",
+    "placementOptions": {
+        "bottom": true,
+        "onwater": false,
+        "fromBottom": false,
+        "mode": "PAINT",
+        "translate": {
+            "y": -5
+        },
+        "forcePlace": false,
+        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/ancient_city"
+            }
+        ]
+    }
+}
