@@ -1,0 +1,146 @@
+{
+    "name": "Random Pottery",
+    "rarity": 3,
+    "maxPicked": 5,
+    "minPicked": 0,
+    "loot": [
+        {
+            "type": "angler_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "archer_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "arms_up_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "blade_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "brewer_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "burn_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "danger_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "explorer_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "friend_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "heart_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "heartbreak_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "howl_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "miner_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "mourner_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "plenty_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "prize_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "sheaf_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "shelter_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "skull_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "snort_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "flow_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "guster_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        },
+        {
+            "type": "scrape_pottery_sherd",
+            "maxamount": 3,
+            "rarity": 5,
+            "slottypes": "STORAGE"
+        }
+    ]
+}

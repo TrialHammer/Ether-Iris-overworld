@@ -595,7 +595,8 @@
         "tables": [
             "global-clutter",
             "global-tools",
-            "global-treasure"
+            "global-treasure",
+            "random-pottery"
         ]
     }
 }

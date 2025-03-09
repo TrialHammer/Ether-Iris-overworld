@@ -59,7 +59,8 @@
         "underwater": false,
         "loot": [
             "mushroom/clutter",
-            "mushroom/food"
+            "mushroom/food",
+            "random-pottery"
         ],
         "onwater": false,
         "clamp": {

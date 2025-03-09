@@ -386,7 +386,8 @@
         },
         {
             "loot": [
-                "structures/ocean-ruins"
+                "structures/ocean-ruins",
+                "random-pottery"
             ],
             "overStilt": 0,
             "chance": 0.0007,
