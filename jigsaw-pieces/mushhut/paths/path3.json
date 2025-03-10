@@ -81,9 +81,15 @@
         "snow": 0,
         "underwater": false,
         "loot": [
-            "mushroom/clutter",
-            "mushroom/food",
-            "random-pottery"
+            {
+                "name": "mushroom/clutter"
+            },
+            {
+                "name": "mushroom/food"
+            },
+            {
+                "name": "random-pottery"
+            }
         ],
         "onwater": false,
         "clamp": {

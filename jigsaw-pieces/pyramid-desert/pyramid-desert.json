@@ -1,8 +1,13 @@
 {
     "placementOptions": {
-                        "vanillaLoot": [
+        "vanillaLoot": [
             {
                 "name": "minecraft:chests/desert_pyramid"
+            }
+        ],
+        "loot": [
+            {
+                "name": "random-pottery"
             }
         ],
         "markers": [{

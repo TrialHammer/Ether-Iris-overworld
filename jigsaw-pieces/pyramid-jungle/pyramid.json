@@ -1,8 +1,13 @@
 {
     "placementOptions": {
-                        "vanillaLoot": [
+        "vanillaLoot": [
             {
                 "name": "minecraft:chests/jungle_temple"
+            }
+        ],
+        "loot": [
+            {
+                "name": "random-pottery"
             }
         ],
         "markers": [{

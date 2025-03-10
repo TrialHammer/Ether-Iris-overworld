@@ -1,19 +1,23 @@
 {
-    "connectors": [{
-        "targetName": "*",
-        "innerConnector": true,
-        "entityCount": 1,
-        "rotateConnector": false,
-        "name": "",
-        "pools": ["mush-huts/paths"],
-        "position": {
-            "x": -4,
-            "y": -12,
-            "z": 0
-        },
-        "keepEntity": false,
-        "direction": "WEST_NEGATIVE_X"
-    }],
+    "connectors": [
+        {
+            "targetName": "*",
+            "innerConnector": true,
+            "entityCount": 1,
+            "rotateConnector": false,
+            "name": "",
+            "pools": [
+                "mush-huts/paths"
+            ],
+            "position": {
+                "x": -4,
+                "y": -12,
+                "z": 0
+            },
+            "keepEntity": false,
+            "direction": "WEST_NEGATIVE_X"
+        }
+    ],
     "placementOptions": {
         "overStilt": 0,
         "chance": 1,
@@ -58,9 +62,15 @@
         "snow": 0,
         "underwater": false,
         "loot": [
-            "mushroom/clutter",
-            "mushroom/food",
-            "random-pottery"
+            {
+                "name": "mushroom/clutter"
+            },
+            {
+                "name": "mushroom/food"
+            },
+            {
+                "name": "random-pottery"
+            }
         ],
         "onwater": false,
         "clamp": {

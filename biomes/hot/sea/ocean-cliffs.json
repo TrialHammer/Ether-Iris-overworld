@@ -108,6 +108,11 @@
                 {
                     "name": "minecraft:chests/underwater_ruin_small"
                 }
+            ],
+            "loot": [
+            {
+                "name": "random-pottery"
+            }
             ]
         }
     ],

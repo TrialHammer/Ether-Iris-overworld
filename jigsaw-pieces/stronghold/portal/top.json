@@ -316,7 +316,7 @@
             "maximumScale": 1,
             "interpolation": "NONE"
         },
-                        "vanillaLoot": [
+        "vanillaLoot": [
             {
                 "name": "minecraft:chests/ruined_portal"
             }

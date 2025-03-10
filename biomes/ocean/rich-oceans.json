@@ -386,8 +386,18 @@
         },
         {
             "loot": [
-                "structures/ocean-ruins",
-                "random-pottery"
+                {
+                    "name": "structures/ocean-ruins",
+                    "exact": false,
+                    "filter": [{"block": "minecraft:chest"}],
+                    "weight": 1
+                },
+                {
+                    "name": "random-pottery",
+                    "exact": false,
+                    "filter": [{"block": "minecraft:chest"}],
+                    "weight": 1
+                }
             ],
             "overStilt": 0,
             "chance": 0.0007,

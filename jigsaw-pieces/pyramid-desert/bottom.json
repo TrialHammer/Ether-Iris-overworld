@@ -13,9 +13,14 @@
         "direction": "UP_POSITIVE_Y"
     }],
     "placementOptions": {
-                        "vanillaLoot": [
+        "vanillaLoot": [
             {
                 "name": "minecraft:chests/desert_pyramid"
+            }
+        ],
+        "loot": [
+            {
+                "name": "random-pottery"
             }
         ],
         "overStilt": 0,

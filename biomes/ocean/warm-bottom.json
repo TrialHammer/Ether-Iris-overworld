@@ -218,6 +218,11 @@
                 {
                     "name": "minecraft:chests/underwater_ruin_small"
                 }
+            ],
+            "loot": [
+            {
+                "name": "random-pottery"
+            }
             ]
         },
         {
@@ -225,6 +230,11 @@
                 {
                     "name": "minecraft:chests/underwater_ruin_small"
                 }
+            ],
+            "loot": [
+            {
+                "name": "random-pottery"
+            }
             ],
             "overStilt": 0,
             "chance": 0.0006,

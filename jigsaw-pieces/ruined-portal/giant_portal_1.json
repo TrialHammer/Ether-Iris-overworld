@@ -1,6 +1,6 @@
 {
     "placementOptions": {
-                        "vanillaLoot": [
+        "vanillaLoot": [
             {
                 "name": "minecraft:chests/ruined_portal"
             }
