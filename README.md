@@ -19,10 +19,6 @@ However, if you are interested, some major changes from the default pack are:
   * ~~You generally won't be happy to see it unless you're me.~~ 
 * Altered the spawn rate for Trail Ruins and Trial Chambers.
   * Players can visit these places more often during the period to get resources exclusive to them.
-* ~~Added a custom loot table to generate Pottery Sherds around the world.~~
-  * ~~This includes fixing the loot table errors in the default pack.~~
-  * ~~Almost all chests / barrels around the world have some chance to generate sherds.~~
-  * No. This is not working. We turned to use mob drops.
 
 If you do want to use it, the simplest way is to download this pack and replace it with the default overworld pack.
 
