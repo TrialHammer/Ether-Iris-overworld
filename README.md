@@ -4,7 +4,7 @@ This is the [Iris](https://www.spigotmc.org/resources/iris-world-gen-the-dimensi
 
 ## Ether
 
-The Ether server is under a collab activity (*Codename Expeditor #2*) between two server communities: TRIALHAMMER and RIA.
+The Ether server is under a collab activity ([*Codename Expeditor #2*](https://docs.qq.com/doc/DTG9oeEpPSFJHdnhR)) between two server communities: [TRIALHAMMER](https://wiki.hammer.moe) and [RIA](https://wiki.ria.red).
 
 This server is designed to be a short-term server where players can harvest resources from 1.21.4 and take them back to the main long-running servers respectively.
 
